@@ -1,0 +1,33 @@
+{
+  "name": "redux-saga-devtools-expo-dev-plugin-webui",
+  "private": true,
+  "version": "0.0.1-private",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start --web",
+    "export": "expo export -p web --output-dir ../dist"
+  },
+  "author": "Simform Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.0",
+    "@ant-design/icons": "^5.5.1",
+    "antd": "^5.22.0",
+    "expo": "~52.0.4",
+    "expo-status-bar": "~2.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@microlink/react-json-view": "^1.23.4",
+    "react-native": "0.76.5",
+    "react-native-web": "~0.19.13",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@types/react": "~18.3.12",
+    "typescript": "^5.6.3"
+  }
+}
