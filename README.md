@@ -28,3 +28,6 @@ const store = configureStore({
   middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(sagaMiddleware),
 });
 ```
+
+## 🎬 Preview
+<a href="https://github.com/SimformSolutionsPvtLtd/redux-saga-devtools-expo-dev-plugin"><img alt="ReduxSagaDevTools" src="./redux-saga-devtools.png"> </a>
