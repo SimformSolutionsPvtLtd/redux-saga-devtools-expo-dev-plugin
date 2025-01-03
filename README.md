@@ -30,4 +30,18 @@ const store = configureStore({
 ```
 
 ## 🎬 Preview
+
 <a href="https://github.com/SimformSolutionsPvtLtd/redux-saga-devtools-expo-dev-plugin"><img alt="ReduxSagaDevTools" src="./redux-saga-devtools.png"> </a>
+
+## Awesome Mobile Libraries
+
+- Check out our other [available awesome mobile libraries](https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries)
+
+## License
+
+- [MIT License](./LICENCE)
+
+## Credits and Inspiration
+
+- This Plugin was inspired by [reactotron-redux-saga](https://github.com/infinitered/reactotron-redux-saga) provided in [infinitered](https://infinite.red/), which is now deprecated. We acknowledge the valuable work of the original authors and have built upon their foundation while making updates and improvements to support expo.
+
