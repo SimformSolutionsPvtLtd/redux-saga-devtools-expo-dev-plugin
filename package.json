@@ -1,12 +1,16 @@
 {
   "name": "redux-saga-devtools-expo-dev-plugin",
   "version": "1.0.0",
-  "description": "Expo DevTools Plugin for Redux Saga",
-  "homepage": "https://github.com/Krunal-K-SimformSolutions/redux-saga-devtools-expo-dev-plugin",
+  "description": "A React Native Redux Saga DevTool Plugin for Expo apps",
   "license": "MIT",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimformSolutionsPvtLtd/redux-saga-devtools-expo-dev-plugin"
+  },
+  "homepage": "https://github.com/SimformSolutionsPvtLtd/redux-saga-devtools-expo-dev-plugin#readme",
   "scripts": {
     "build": "expo-module build",
     "test:types": "expo-module tsc --noEmit",
@@ -20,12 +24,16 @@
     "web:export": "cd webui && npm run export"
   },
   "keywords": [
+    "react",
+    "react-native",
     "expo",
     "devtools",
     "redux",
     "saga",
     "redux-saga",
-    "plugin"
+    "plugin",
+    "typescript",
+    "rn"
   ],
   "files": [
     "build",
