@@ -30,4 +30,4 @@ const store = configureStore({
 ```
 
 ## 🎬 Preview
-<a href="https://github.com/SimformSolutionsPvtLtd/redux-saga-devtools-expo-dev-plugin"><img width="400px;" height="500px;" alt="ReduxSagaDevTools" src="./redux-saga-devtools.png"> </a>
+<a href="https://github.com/SimformSolutionsPvtLtd/redux-saga-devtools-expo-dev-plugin"><img alt="ReduxSagaDevTools" src="./redux-saga-devtools.png"> </a>
