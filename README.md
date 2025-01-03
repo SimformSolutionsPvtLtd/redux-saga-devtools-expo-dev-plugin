@@ -1,6 +1,6 @@
 # redux-saga-devtools-expo-dev-plugin
 
-A React Native Redux Saga DevTool that can run in an Expo App
+A Redux Saga DevTool for React Native Expo applications
 
 # Installation
 
